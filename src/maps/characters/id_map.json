@@ -1,26 +1,28 @@
 {
-  "The Shrine Maiden": {
-    "image": {
-      "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/maps/characters/the_shrine_maiden/default.png",
-      "source": "Scalene Scales",
-      "license": "CC-BY-2.0"
+  "map": {
+    "TheShrineMaiden": {
+      "image": {
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/maps/characters/the_shrine_maiden/default.png",
+        "source": "Scalene Scales",
+        "license": "CC-BY-2.0"
+      },
+      "icon": {
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/maps/characters/the_shrine_maiden/icon.png",
+        "source": "Scalene Scales",
+        "license": "CC-BY-2.0"
+      }
     },
-    "icon": {
-      "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/maps/characters/the_shrine_maiden/icon.png",
-      "source": "Scalene Scales",
-      "license": "CC-BY-2.0"
-    }
-  },
-  "The Phoenix": {
-    "image": {
-      "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/maps/characters/the_phoenix/default.png",
-      "source": "Scalene Scales",
-      "license": "CC-BY-2.0"
-    },
-    "icon": {
-      "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/maps/characters/the_phoenix/icon.png",
-      "source": "Scalene Scales",
-      "license": "CC-BY-2.0"
+    "ThePhoenix": {
+      "image": {
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/maps/characters/the_phoenix/default.png",
+        "source": "Scalene Scales",
+        "license": "CC-BY-2.0"
+      },
+      "icon": {
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/maps/characters/the_phoenix/icon.png",
+        "source": "Scalene Scales",
+        "license": "CC-BY-2.0"
+      }
     }
   }
 }
