@@ -2,11 +2,11 @@
   "map": {
     "TheShrineMaiden": {
       "name": "The Shrine Maiden",
-      "translators": "Scalene Scales"
+      "translators": ["Scalene Scales"]
     },
     "ThePhoenix": {
       "name": "The Phoenix",
-      "translators": "Scalene Scales"
+      "translators": ["Scalene Scales"]
     }
   }
 }
