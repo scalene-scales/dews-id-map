@@ -168,6 +168,90 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bosses/fog_of_self_doubt.png"
       }
     },
+    "HungryLavaSerpent": {
+      "bestiary/": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/lava_serpent.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/lava_serpent.png"
+      }
+    },
+    "HungryShark": {
+      "bestiary/": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/hungry_shark.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/hungry_shark.png"
+      }
+    },
+    "IcySeal": {
+      "bestiary/": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/icy_seal.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/icy_seal.png"
+      }
+    },
+    "Juggernaut": {
+      "bestiary/": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/juggernaut.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/juggernaut.png"
+      }
+    },
+    "Kraken": {
+      "bestiary/": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/kraken.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/kraken.png"
+      }
+    },
+    "LavaGolem": {
+      "bestiary/": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/lava_golem.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/lava_golem.png"
+      }
+    },
+    "LavaLarva": {
+      "bestiary/": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/lava_larva.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/lava_larva.png"
+      }
+    },
     "LavaSlime": {
       "icon": {
         "artist": "Scalene Scales",
@@ -180,6 +264,30 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/lava_slime.png"
       }
     },
+    "LightningJellyfish": {
+      "bestiary/": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/lightning_jellyfish.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/lightning_jellyfish.png"
+      }
+    },
+    "MysticFlame": {
+      "bestiary/": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/mystic_flame.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/mystic_flame.png"
+      }
+    },
     "OriginWrath:TheAvatarOfWrath": {
       "icon": {
         "artist": "Scalene Scales",
@@ -190,6 +298,114 @@
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bosses/the_red_trident/image.png"
+      }
+    },
+    "OversizedTuna": {
+      "bestiary/": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/oversized_tuna.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/oversized_tuna.png"
+      }
+    },
+    "PitOfDespair": {
+      "bestiary/": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/pit_of_despair.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/pit_of_despair.png"
+      }
+    },
+    "PodOfSeals": {
+      "bestiary/": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/pod_of_seals.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/pod_of_seals.png"
+      }
+    },
+    "Revenant": {
+      "bestiary/": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/revenant.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/revenant.png"
+      }
+    },
+    "RockySeal": {
+      "bestiary/": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/rocky_seal.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/rocky_seal.png"
+      }
+    },
+    "Scylla": {
+      "bestiary/": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/scylla.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/scylla.png"
+      }
+    },
+    "Siren": {
+      "bestiary/": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/siren.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/siren.png"
+      }
+    },
+    "SkyTerror": {
+      "bestiary/": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/sky_terror.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/sky_terror.png"
+      }
+    },
+    "TendrilOfMalice": {
+      "bestiary/": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/tendril_of_malice.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/tendril_of_malice.png"
       }
     },
     "ThePhoenix": {
@@ -216,6 +432,42 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/roster/the_shrine_maiden/default.png"
       }
     },
+    "TrainingDummy": {
+      "bestiary/": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/training_dummy.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/training_dummy.png"
+      }
+    },
+    "ViciousOrca": {
+      "bestiary/": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/vicious_orca.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/vicious_orca.png"
+      }
+    },
+    "VoidSwordfish": {
+      "bestiary/": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/void_swordfish.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/void_swordfish.png"
+      }
+    },
     "WallOfFire": {
       "bestiary/": {
         "artist": "Scalene Scales",
@@ -226,6 +478,18 @@
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/supporters/wall_of_fire.png"
+      }
+    },
+    "WingedOctopus": {
+      "bestiary/": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/winged_octopus.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/winged_octopus.png"
       }
     }
   }
