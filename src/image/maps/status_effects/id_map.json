@@ -28,6 +28,160 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/armoured.png"
       }
     },
+    "Artifact:BeetlePancakes": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/beetle_pancakes.png"
+      }
+    },
+    "Artifact:DirtyRag": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/dirty_rag.png"
+      }
+    },
+    "Artifact:EmergencyJuice": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/emergency_juice.png"
+      }
+    },
+    "Artifact:Eurobeat": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/eurobeat.png"
+      }
+    },
+    "Artifact:ExplosiveLavaCarapace": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/explosive_lava_carapace.png"
+      }
+    },
+    "Artifact:FashionablePajamas": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/fashionable_pajamas.png"
+      }
+    },
+    "Artifact:FattyTuna": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/fatty_tuna.png"
+      }
+    },
+    "Artifact:FilledHumidifier": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/filled_humidifier.png"
+      }
+    },
+    "Artifact:FlintAndSteel": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/flint_and_steel.png"
+      }
+    },
+    "Artifact:Foraging": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/foraging.png"
+      }
+    },
+    "Artifact:GrowingEmbers": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/growing_embers.png"
+      }
+    },
+    "Artifact:LongBench": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/long_bench.png"
+      }
+    },
+    "Artifact:LossAndGain": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/loss_and_gain.png"
+      }
+    },
+    "Artifact:PhoenixHeart": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/phoenix_heart.png"
+      }
+    },
+    "Artifact:Polyglot": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/polyglot.png"
+      }
+    },
+    "Artifact:RegeneratingScyllaHeads": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/regenerating_scylla_heads.png"
+      }
+    },
+    "Artifact:SakeOfObserving": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/sake_of_observing.png"
+      }
+    },
+    "Artifact:SuspiciousAbalone": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/suspicious_abalone.png"
+      }
+    },
+    "Artifact:TheFourthRefrain": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/the_fourth_refrain.png"
+      }
+    },
+    "Artifact:TraumatizingScene": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/traumatizing_scene.png"
+      }
+    },
+    "Artifact:TwistingBodyOfVoid": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/twisting_body_of_void.png"
+      }
+    },
+    "Artifact:Unrescuable": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/unrescuable.png"
+      }
+    },
     "Bide": {
       "icon": {
         "artist": "Scalene Scales",
