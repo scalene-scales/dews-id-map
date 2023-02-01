@@ -375,14 +375,14 @@
       "icon": {
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
-        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/impending_blessing.png"
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/impending_blessing.png"
       }
     },
     "ImpendingMisfortune": {
       "icon": {
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
-        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/impending_misforturne.png"
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/impending_misfortune.png"
       }
     },
     "IndiscriminateDesire": {
@@ -403,7 +403,7 @@
       "icon": {
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
-        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/inerpretive_dance.png"
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/interpretive_dance.png"
       }
     },
     "Intimidated": {
