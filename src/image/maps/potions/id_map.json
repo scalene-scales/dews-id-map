@@ -1,1 +1,18 @@
-{}
+{
+  "map": {
+    "PotionOfBlock": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/potions/icons/potion_of_block.png"
+      }
+    },
+    "PotionOfHealth": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/potions/icons/potion_of_health.png"
+      }
+    }
+  }
+}
