@@ -1,1 +1,692 @@
-{}
+{
+  "map": {
+    "247News": {
+      "name": "24/7 News Show",
+      "translators": ["Scalene Scales"]
+    },
+    "AGoodDayWork": {
+      "name": "A Good Day's Work",
+      "translators": ["Scalene Scales"]
+    },
+    "Ambush": {
+      "name": "Ambush",
+      "translators": ["Scalene Scales"]
+    },
+    "AnguishedStrike": {
+      "name": "Anguished Strike",
+      "translators": ["Scalene Scales"]
+    },
+    "Aquafication": {
+      "name": "Aquafication",
+      "translators": ["Scalene Scales"]
+    },
+    "Bide": {
+      "name": "Bide",
+      "translators": ["Scalene Scales"]
+    },
+    "BilingualNewsShow": {
+      "name": "Bilingual News Show",
+      "translators": ["Scalene Scales"]
+    },
+    "BreakDance": {
+      "name": "Break Dance",
+      "translators": ["Scalene Scales"]
+    },
+    "BroadcastingLiveNow": {
+      "name": "Broadcasting Live Now!",
+      "translators": ["Scalene Scales"]
+    },
+    "BubblyBork": {
+      "name": "Bubbly Bork",
+      "translators": ["Scalene Scales"]
+    },
+    "BurnBurnBurn": {
+      "name": "Burn! Burn! Burn!",
+      "translators": ["Scalene Scales"]
+    },
+    "Cauterize": {
+      "name": "Cauterize",
+      "translators": ["Scalene Scales"]
+    },
+    "CeremonyOfEmbers": {
+      "name": "Ceremony of Embers",
+      "translators": ["Scalene Scales"]
+    },
+    "CharybdisSwallow": {
+      "name": "Swallow",
+      "translators": ["Scalene Scales"]
+    },
+    "ColdReading": {
+      "name": "Cold Reading",
+      "translators": ["Scalene Scales"]
+    },
+    "CompressedFierySlimeImplosion": {
+      "name": "Fiery Implosion",
+      "translators": ["Scalene Scales"]
+    },
+    "Confragration": {
+      "name": "Confragration",
+      "translators": ["Scalene Scales"]
+    },
+    "ContaminatedBento": {
+      "name": "Contaminated Bento",
+      "translators": ["Scalene Scales"]
+    },
+    "CrashIntoTheGround": {
+      "name": "Crash into the Ground",
+      "translators": ["Scalene Scales"]
+    },
+    "DailyPracticeRoutine": {
+      "name": "Daily Practice Routine",
+      "translators": ["Scalene Scales"]
+    },
+    "DanceLessons": {
+      "name": "Dance Lessons",
+      "translators": ["Scalene Scales"]
+    },
+    "Defend": {
+      "name": "Defend",
+      "translators": ["Scalene Scales"]
+    },
+    "DelegateTask": {
+      "name": "Delegate Task",
+      "translators": ["Scalene Scales"]
+    },
+    "Dirt": {
+      "name": "Dirt",
+      "translators": ["Scalene Scales"]
+    },
+    "DirtyTalk": {
+      "name": "Dirty Talk",
+      "translators": ["Scalene Scales"]
+    },
+    "Dive": {
+      "name": "Dive",
+      "translators": ["Scalene Scales"]
+    },
+    "DivineAura": {
+      "name": "Divine Aura",
+      "translators": ["Scalene Scales"]
+    },
+    "DivingManeuver": {
+      "name": "Diving Maneuver",
+      "translators": ["Scalene Scales"]
+    },
+    "DragBelow": {
+      "name": "Drag Below the Waves",
+      "translators": ["Scalene Scales"]
+    },
+    "Draw1Card": {
+      "name": "Draw 1 card",
+      "translators": ["Scalene Scales"]
+    },
+    "Draw2Cards": {
+      "name": "Draw 2 cards",
+      "translators": ["Scalene Scales"]
+    },
+    "EmergencyReserve": {
+      "name": "Emergency Reserve",
+      "translators": ["Scalene Scales"]
+    },
+    "EndlessMalice": {
+      "name": "Endless Malice",
+      "translators": ["Scalene Scales"]
+    },
+    "EndureHardship": {
+      "name": "Endure Hardship",
+      "translators": ["Scalene Scales"]
+    },
+    "EngulfInSlimyLava": {
+      "name": "Engulf In Lava",
+      "translators": ["Scalene Scales"]
+    },
+    "EstablishServices": {
+      "name": "Establish Services",
+      "translators": ["Scalene Scales"]
+    },
+    "EventProposal": {
+      "name": "Event Proposal",
+      "translators": ["Scalene Scales"]
+    },
+    "FairyCombustion": {
+      "name": "Combustion",
+      "translators": ["Scalene Scales"]
+    },
+    "FallingApart": {
+      "name": "Falling Apart",
+      "translators": ["Scalene Scales"]
+    },
+    "FamiliarBurns": {
+      "name": "Familiar Burns",
+      "translators": ["Scalene Scales"]
+    },
+    "Fantasize": {
+      "name": "Fantasize",
+      "translators": ["Scalene Scales"]
+    },
+    "FeebleWhimper": {
+      "name": "Whimper",
+      "translators": ["Scalene Scales"]
+    },
+    "FeedingFrenzy": {
+      "name": "Feeding Frenzy",
+      "translators": ["Scalene Scales"]
+    },
+    "FeelingsOfWorthlessness": {
+      "name": "Feelings of Worthlessness",
+      "translators": ["Scalene Scales"]
+    },
+    "FestivalFinale": {
+      "name": "Festival Finale",
+      "translators": ["Scalene Scales"]
+    },
+    "FieryNibble": {
+      "name": "Fiery Nibble",
+      "translators": ["Scalene Scales"]
+    },
+    "FierySlimeSolidify": {
+      "name": "Slimy Solidification",
+      "translators": ["Scalene Scales"]
+    },
+    "Firestorm": {
+      "name": "Firestorm",
+      "translators": ["Scalene Scales"]
+    },
+    "Fissure": {
+      "name": "Fissure",
+      "translators": ["Scalene Scales"]
+    },
+    "FistOfFlames": {
+      "name": "Fist of Flames",
+      "translators": ["Scalene Scales"]
+    },
+    "FlameWaltz": {
+      "name": "Flame Waltz",
+      "translators": ["Scalene Scales"]
+    },
+    "Flameclad": {
+      "name": "Flameclad",
+      "translators": ["Scalene Scales"]
+    },
+    "Flames": {
+      "name": "Flames",
+      "translators": ["Scalene Scales"]
+    },
+    "Flashfire": {
+      "name": "Flashfire",
+      "translators": ["Scalene Scales"]
+    },
+    "Flourish": {
+      "name": "Flourish",
+      "translators": ["Scalene Scales"]
+    },
+    "ForgedInFlames": {
+      "name": "Forged in Flames",
+      "translators": ["Scalene Scales"]
+    },
+    "FortoldBlessing": {
+      "name": "Fortold Blessing",
+      "translators": ["Scalene Scales"]
+    },
+    "FortoldDisaster": {
+      "name": "Fortold Disaster",
+      "translators": ["Scalene Scales"]
+    },
+    "FortoldMisfortune": {
+      "name": "Fortold Misfortune",
+      "translators": ["Scalene Scales"]
+    },
+    "FortoldSalvation": {
+      "name": "Fortold Salvation",
+      "translators": ["Scalene Scales"]
+    },
+    "FutileDefense": {
+      "name": "Futile Defense",
+      "translators": ["Scalene Scales"]
+    },
+    "Glomp": {
+      "name": "Glomp",
+      "translators": ["Scalene Scales"]
+    },
+    "GropingAttack": {
+      "name": "Grope",
+      "translators": ["Scalene Scales"]
+    },
+    "Hookie": {
+      "name": "Hookie",
+      "translators": ["Scalene Scales"]
+    },
+    "HypedUpAttack": {
+      "name": "Hyped Up Attack",
+      "translators": ["Scalene Scales"]
+    },
+    "IciclePierce": {
+      "name": "Icicle Pierce",
+      "translators": ["Scalene Scales"]
+    },
+    "IdolStep": {
+      "name": "Idol Step",
+      "translators": ["Scalene Scales"]
+    },
+    "ImNotLeftHanded": {
+      "name": "I'm not Left-handed",
+      "translators": ["Scalene Scales"]
+    },
+    "IncrementalRefinement": {
+      "name": "Incremental Refinement",
+      "translators": ["Scalene Scales"]
+    },
+    "IndiscriminateDesire": {
+      "name": "Indiscriminate Desire",
+      "translators": ["Scalene Scales"]
+    },
+    "InsideScoop": {
+      "name": "Inside Scoop",
+      "translators": ["Scalene Scales"]
+    },
+    "InterpretiveDance": {
+      "name": "Interpretive Dance",
+      "translators": ["Scalene Scales"]
+    },
+    "Interview": {
+      "name": "Interview",
+      "translators": ["Scalene Scales"]
+    },
+    "IntrusiveThoughts": {
+      "name": "Intrusive Thoughts",
+      "translators": ["Scalene Scales"]
+    },
+    "JellyfishElectricSting": {
+      "name": "Electric Sting",
+      "translators": ["Scalene Scales"]
+    },
+    "JoyOfOrganizing": {
+      "name": "Joy of Organizing",
+      "translators": ["Scalene Scales"]
+    },
+    "KrakenFlail": {
+      "name": "Flail",
+      "translators": ["Scalene Scales"]
+    },
+    "LavaGolemBootUpSequence": {
+      "name": "Boot Up Sequence",
+      "translators": ["Scalene Scales"]
+    },
+    "LavaGolemSharpnelBlast": {
+      "name": "Sharpnel Blast",
+      "translators": ["Scalene Scales"]
+    },
+    "LavaSerpentGorge": {
+      "name": "Gorge",
+      "translators": ["Scalene Scales"]
+    },
+    "LavaSerpentTailSplash": {
+      "name": "Tail Splash",
+      "translators": ["Scalene Scales"]
+    },
+    "LaviciousAttack": {
+      "name": "Lavicious Attack",
+      "translators": ["Scalene Scales"]
+    },
+    "LeadTheWay": {
+      "name": "Lead the Way",
+      "translators": ["Scalene Scales"]
+    },
+    "LeisurelyStride": {
+      "name": "Leisurely Stride",
+      "translators": ["Scalene Scales"]
+    },
+    "LiftIntoTheSky": {
+      "name": "Lift into the Sky",
+      "translators": ["Scalene Scales"]
+    },
+    "LuckyTotem": {
+      "name": "Lucky Totem",
+      "translators": ["Scalene Scales"]
+    },
+    "MemorizedDefense": {
+      "name": "Memorized Defense",
+      "translators": ["Scalene Scales"]
+    },
+    "MorningNewsShow": {
+      "name": "Morning News Show",
+      "translators": ["Scalene Scales"]
+    },
+    "MusicalAttack": {
+      "name": "Musical Attack",
+      "translators": ["Scalene Scales"]
+    },
+    "MystialTorrentOfFire": {
+      "name": "Torrent of Fire",
+      "translators": ["Scalene Scales"]
+    },
+    "MysticForesight": {
+      "name": "Mystic Foresight",
+      "translators": ["Scalene Scales"]
+    },
+    "MysticalRumors": {
+      "name": "Mystical Rumors",
+      "translators": ["Scalene Scales"]
+    },
+    "Objectify": {
+      "name": "Objectify",
+      "translators": ["Scalene Scales"]
+    },
+    "Obsession": {
+      "name": "Obsession",
+      "translators": ["Scalene Scales"]
+    },
+    "OnTheSceneReport": {
+      "name": "On the Scene Report",
+      "translators": ["Scalene Scales"]
+    },
+    "OpeningDay": {
+      "name": "Opening Day",
+      "translators": ["Scalene Scales"]
+    },
+    "OptimisticOutlook": {
+      "name": "Optimistic Outlook",
+      "translators": ["Scalene Scales"]
+    },
+    "OrcaSavageBite": {
+      "name": "Savage Bite",
+      "translators": ["Scalene Scales"]
+    },
+    "Organize1": {
+      "name": "Organize 1",
+      "translators": ["Scalene Scales"]
+    },
+    "Organize2": {
+      "name": "Organize 2",
+      "translators": ["Scalene Scales"]
+    },
+    "Organize3": {
+      "name": "Organize 3",
+      "translators": ["Scalene Scales"]
+    },
+    "OrganizedAttack": {
+      "name": "Organized Attack",
+      "translators": ["Scalene Scales"]
+    },
+    "OrganizedDefense": {
+      "name": "Organized Defense",
+      "translators": ["Scalene Scales"]
+    },
+    "OverThinking": {
+      "name": "Over-thinking",
+      "translators": ["Scalene Scales"]
+    },
+    "OvercomePain": {
+      "name": "Overcome Pain",
+      "translators": ["Scalene Scales"]
+    },
+    "OverhypedAttack": {
+      "name": "Overhyped Attack",
+      "translators": ["Scalene Scales"]
+    },
+    "PaparazziAttack": {
+      "name": "Paparazzi!",
+      "translators": ["Scalene Scales"]
+    },
+    "PerfectedOffensive": {
+      "name": "Perfected Offensive",
+      "translators": ["Scalene Scales"]
+    },
+    "Plan1": {
+      "name": "Plan 1",
+      "translators": ["Scalene Scales"]
+    },
+    "Plan2": {
+      "name": "Plan 2",
+      "translators": ["Scalene Scales"]
+    },
+    "Plan3": {
+      "name": "Plan 3",
+      "translators": ["Scalene Scales"]
+    },
+    "PolishedOffensive": {
+      "name": "Polished Offensive",
+      "translators": ["Scalene Scales"]
+    },
+    "PracticedOffensive": {
+      "name": "Practiced Offensive",
+      "translators": ["Scalene Scales"]
+    },
+    "RabidBite": {
+      "name": "Bite",
+      "translators": ["Scalene Scales"]
+    },
+    "RainyDayFund": {
+      "name": "Rainy Day Fund",
+      "translators": ["Scalene Scales"]
+    },
+    "RefinedAttack": {
+      "name": "Refined Attack",
+      "translators": ["Scalene Scales"]
+    },
+    "RefinedDefense": {
+      "name": "Refined Defense",
+      "translators": ["Scalene Scales"]
+    },
+    "RehearsedPerformance": {
+      "name": "Rehearsed Performance",
+      "translators": ["Scalene Scales"]
+    },
+    "Reorganize": {
+      "name": "Reorganize",
+      "translators": ["Scalene Scales"]
+    },
+    "RequestForChanges": {
+      "name": "Request for Changes",
+      "translators": ["Scalene Scales"]
+    },
+    "RitualDance": {
+      "name": "Ritual Dance",
+      "translators": ["Scalene Scales"]
+    },
+    "RoarOfWrath": {
+      "name": "Roar of Wrath",
+      "translators": ["Scalene Scales"]
+    },
+    "RockThrow": {
+      "name": "Rock Throw",
+      "translators": ["Scalene Scales"]
+    },
+    "RottingTouch": {
+      "name": "Rotting Touch",
+      "translators": ["Scalene Scales"]
+    },
+    "SacredTexts": {
+      "name": "Sacred Texts",
+      "translators": ["Scalene Scales"]
+    },
+    "Scheduling": {
+      "name": "Scheduling",
+      "translators": ["Scalene Scales"]
+    },
+    "SealPodGuard": {
+      "name": "Guard",
+      "translators": ["Scalene Scales"]
+    },
+    "SealPodSplit": {
+      "name": "Split Off",
+      "translators": ["Scalene Scales"]
+    },
+    "SelfConscious": {
+      "name": "Self-conscious",
+      "translators": ["Scalene Scales"]
+    },
+    "Sharkbite": {
+      "name": "Sharkbite",
+      "translators": ["Scalene Scales"]
+    },
+    "ShatterIntoPieces": {
+      "name": "Shatter into Pieces",
+      "translators": ["Scalene Scales"]
+    },
+    "Shockwave": {
+      "name": "Shockwave",
+      "translators": ["Scalene Scales"]
+    },
+    "SinkingGround": {
+      "name": "Sinking Ground",
+      "translators": ["Scalene Scales"]
+    },
+    "SirenCall": {
+      "name": "Siren's Call",
+      "translators": ["Scalene Scales"]
+    },
+    "SirenDrown": {
+      "name": "Drown",
+      "translators": ["Scalene Scales"]
+    },
+    "SixHeadedBite": {
+      "name": "Bite",
+      "translators": ["Scalene Scales"]
+    },
+    "SpecialReport": {
+      "name": "Special Report",
+      "translators": ["Scalene Scales"]
+    },
+    "SpriteEmbers": {
+      "name": "Embers",
+      "translators": ["Scalene Scales"]
+    },
+    "SteadyProgress": {
+      "name": "Steady Progress",
+      "translators": ["Scalene Scales"]
+    },
+    "Stockpile": {
+      "name": "Stockpile",
+      "translators": ["Scalene Scales"]
+    },
+    "Strike": {
+      "name": "Strike",
+      "translators": ["Scalene Scales"]
+    },
+    "StrikeFromBelow": {
+      "name": "Strike from Beneath the Seas",
+      "translators": ["Scalene Scales"]
+    },
+    "StrikeFromTheVoid": {
+      "name": "Strike from the Void",
+      "translators": ["Scalene Scales"]
+    },
+    "Submerge": {
+      "name": "Submerge",
+      "translators": ["Scalene Scales"]
+    },
+    "SuggestiveDance": {
+      "name": "Suggestive Dance",
+      "translators": ["Scalene Scales"]
+    },
+    "SummonFireSprites": {
+      "name": "Summon Fire Sprites",
+      "translators": ["Scalene Scales"]
+    },
+    "SynchronizedDancing": {
+      "name": "Synchronized Dancing",
+      "translators": ["Scalene Scales"]
+    },
+    "TentaclePierce": {
+      "name": "Pierce",
+      "translators": ["Scalene Scales"]
+    },
+    "TentacleWrap": {
+      "name": "Wrap",
+      "translators": ["Scalene Scales"]
+    },
+    "TerrorFromBeyond": {
+      "name": "Terror from Beyond",
+      "translators": ["Scalene Scales"]
+    },
+    "TimeToOrganize": {
+      "name": "Time to Organize",
+      "translators": ["Scalene Scales"]
+    },
+    "ToxicSpit": {
+      "name": "Spit",
+      "translators": ["Scalene Scales"]
+    },
+    "Toxin": {
+      "name": "Toxin",
+      "translators": ["Scalene Scales"]
+    },
+    "Tremor": {
+      "name": "Tremor",
+      "translators": ["Scalene Scales"]
+    },
+    "TridentStrike": {
+      "name": "Trident Strike",
+      "translators": ["Scalene Scales"]
+    },
+    "TunaOverheat": {
+      "name": "Overheat",
+      "translators": ["Scalene Scales"]
+    },
+    "TunaRam": {
+      "name": "Ram",
+      "translators": ["Scalene Scales"]
+    },
+    "UnpracticedOffensive": {
+      "name": "Unpracticed Offensive",
+      "translators": ["Scalene Scales"]
+    },
+    "VanishIntoTheVoid": {
+      "name": "Vanish into the Void",
+      "translators": ["Scalene Scales"]
+    },
+    "VoidLightning": {
+      "name": "Lightning Strike",
+      "translators": ["Scalene Scales"]
+    },
+    "VoidPunch": {
+      "name": "Punch",
+      "translators": ["Scalene Scales"]
+    },
+    "VoidRain": {
+      "name": "Rain of Sludge",
+      "translators": ["Scalene Scales"]
+    },
+    "VoidSlam": {
+      "name": "Slam",
+      "translators": ["Scalene Scales"]
+    },
+    "VoidSludge": {
+      "name": "Sludge",
+      "translators": ["Scalene Scales"]
+    },
+    "VoidSwordfishSlice": {
+      "name": "Slice",
+      "translators": ["Scalene Scales"]
+    },
+    "VoidSwordfishSpear": {
+      "name": "Spear",
+      "translators": ["Scalene Scales"]
+    },
+    "VoidWeightLifting": {
+      "name": "Weight Lift",
+      "translators": ["Scalene Scales"]
+    },
+    "Wait": {
+      "name": "Wait",
+      "translators": ["Scalene Scales"]
+    },
+    "WallOfFire": {
+      "name": "Wall of Fire",
+      "translators": ["Scalene Scales"]
+    },
+    "WaterLogged": {
+      "name": "Water Logged",
+      "translators": ["Scalene Scales"]
+    },
+    "Whirlpool": {
+      "name": "Whirlpool",
+      "translators": ["Scalene Scales"]
+    },
+    "Wildfire": {
+      "name": "Wildfire",
+      "translators": ["Scalene Scales"]
+    }
+  }
+}

@@ -1,11 +1,167 @@
 {
   "map": {
-    "TheShrineMaiden": {
-      "name": "The Shrine Maiden",
+    "AmbushingLavaSlime": {
+      "name": "Lava Slime",
+      "translators": ["Scalene Scales"]
+    },
+    "BrokenBuildings": {
+      "name": "Broken Buildings",
+      "translators": ["Scalene Scales"]
+    },
+    "BrokenLavaGolem": {
+      "name": "Broken Lava Golem",
+      "translators": ["Scalene Scales"]
+    },
+    "BubblySeal": {
+      "name": "Bubbly Seal",
+      "translators": ["Scalene Scales"]
+    },
+    "Charybdis": {
+      "name": "Charybdis",
+      "translators": ["Scalene Scales"]
+    },
+    "CrazedSurvivor": {
+      "name": "Crazed Survivor",
+      "translators": ["Scalene Scales"]
+    },
+    "CryingStatue": {
+      "name": "Crying Statue",
+      "translators": ["Scalene Scales"]
+    },
+    "DarkClouds": {
+      "name": "Dark Clouds",
+      "translators": ["Scalene Scales"]
+    },
+    "DecayingBeast": {
+      "name": "Decaying Beast",
+      "translators": ["Scalene Scales"]
+    },
+    "EmptyHusk": {
+      "name": "Empty Husk",
+      "translators": ["Scalene Scales"]
+    },
+    "FireFairy": {
+      "name": "Fire Fairy",
+      "translators": ["Scalene Scales"]
+    },
+    "FireSprite": {
+      "name": "Fire Sprite",
+      "translators": ["Scalene Scales"]
+    },
+    "FlyingFish": {
+      "name": "Flying Fish",
+      "translators": ["Scalene Scales"]
+    },
+    "FogOfSelfDoubt": {
+      "name": "Fog of Self-doubt",
+      "translators": ["Scalene Scales"]
+    },
+    "HungryLavaSerpent": {
+      "name": "Hungry Lava Serpent",
+      "translators": ["Scalene Scales"]
+    },
+    "HungryShark": {
+      "name": "Hungry Shark",
+      "translators": ["Scalene Scales"]
+    },
+    "IcySeal": {
+      "name": "Icy Seal",
+      "translators": ["Scalene Scales"]
+    },
+    "Juggernaut": {
+      "name": "The Juggernaut",
+      "translators": ["Scalene Scales"]
+    },
+    "Kraken": {
+      "name": "Kraken",
+      "translators": ["Scalene Scales"]
+    },
+    "LavaGolem": {
+      "name": "Lava Golem",
+      "translators": ["Scalene Scales"]
+    },
+    "LavaLarva": {
+      "name": "Lava Larva",
+      "translators": ["Scalene Scales"]
+    },
+    "LavaSlime": {
+      "name": "Lava Slime",
+      "translators": ["Scalene Scales"]
+    },
+    "LightningJellyfish": {
+      "name": "Lightning Jellyfish",
+      "translators": ["Scalene Scales"]
+    },
+    "MysticFlame": {
+      "name": "Mystic Flame",
+      "translators": ["Scalene Scales"]
+    },
+    "OriginWrath:TheAvatarOfWrath": {
+      "name": "The Avatar of Wrath",
+      "translators": ["Scalene Scales"]
+    },
+    "OversizedTuna": {
+      "name": "Oversized Tuna",
+      "translators": ["Scalene Scales"]
+    },
+    "PitOfDespair": {
+      "name": "Pit of Despair",
+      "translators": ["Scalene Scales"]
+    },
+    "PodOfSeals": {
+      "name": "Pod of Seals",
+      "translators": ["Scalene Scales"]
+    },
+    "Revenant": {
+      "name": "Revenant",
+      "translators": ["Scalene Scales"]
+    },
+    "RockySeal": {
+      "name": "Rocky Seal",
+      "translators": ["Scalene Scales"]
+    },
+    "Scylla": {
+      "name": "Scylla",
+      "translators": ["Scalene Scales"]
+    },
+    "Siren": {
+      "name": "Siren",
+      "translators": ["Scalene Scales"]
+    },
+    "SkyTerror": {
+      "name": "Sky Terror",
+      "translators": ["Scalene Scales"]
+    },
+    "TendrilOfMalice": {
+      "name": "Tendril of Malice",
       "translators": ["Scalene Scales"]
     },
     "ThePhoenix": {
       "name": "The Phoenix",
+      "translators": ["Scalene Scales"]
+    },
+    "TheShrineMaiden": {
+      "name": "The Shrine Maiden",
+      "translators": ["Scalene Scales"]
+    },
+    "TrainingDummy": {
+      "name": "Training Dummy",
+      "translators": ["Scalene Scales"]
+    },
+    "ViciousOrca": {
+      "name": "Vicious Orca",
+      "translators": ["Scalene Scales"]
+    },
+    "VoidSwordfish": {
+      "name": "Void Swordfish",
+      "translators": ["Scalene Scales"]
+    },
+    "WallOfFire": {
+      "name": "Wall of Fire",
+      "translators": ["Scalene Scales"]
+    },
+    "WingedOctopus": {
+      "name": "Winged Octopus",
       "translators": ["Scalene Scales"]
     }
   }

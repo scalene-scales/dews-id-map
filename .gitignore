@@ -6,6 +6,9 @@
 /.pnp
 .pnp.js
 
+# raw data
+/src/raw
+
 # testing
 
 /coverage

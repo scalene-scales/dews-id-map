@@ -1,1 +1,32 @@
-{}
+{
+  "map": {
+    "Craze": {
+      "name": "Craze",
+      "translators": ["Scalene Scales"]
+    },
+    "Devour": {
+      "name": "Devour",
+      "translators": ["Scalene Scales"]
+    },
+    "FortuneTell": {
+      "name": "Fortune Tell",
+      "translators": ["Scalene Scales"]
+    },
+    "Melee": {
+      "name": "Melee",
+      "translators": ["Scalene Scales"]
+    },
+    "OrganizeX": {
+      "name": "Organize X",
+      "translators": ["Scalene Scales"]
+    },
+    "PlanX": {
+      "name": "Plan X",
+      "translators": ["Scalene Scales"]
+    },
+    "Ranged": {
+      "name": "Ranged",
+      "translators": ["Scalene Scales"]
+    }
+  }
+}

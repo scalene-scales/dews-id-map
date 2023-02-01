@@ -1,1 +1,228 @@
-{}
+{
+  "map": {
+    "ASMR": {
+      "name": "ASMR",
+      "translators": ["Scalene Scales"]
+    },
+    "ApexInstincts": {
+      "name": "Apex Instincts",
+      "translators": ["Scalene Scales"]
+    },
+    "BeetlePancakes": {
+      "name": "Beetle Pancakes",
+      "translators": ["Scalene Scales"]
+    },
+    "BillFor254": {
+      "name": "Bill For 254",
+      "translators": ["Scalene Scales"]
+    },
+    "BowlOfSoup": {
+      "name": "Bowl of Soup",
+      "translators": ["Scalene Scales"]
+    },
+    "ConstructionCompany": {
+      "name": "Construction Company",
+      "translators": ["Scalene Scales"]
+    },
+    "CoverSong": {
+      "name": "Cover Song",
+      "translators": ["Scalene Scales"]
+    },
+    "DirtyRag": {
+      "name": "Dirty Rag",
+      "translators": ["Scalene Scales"]
+    },
+    "DreamJournal": {
+      "name": "Dream Journal",
+      "translators": ["Scalene Scales"]
+    },
+    "Duet": {
+      "name": "Duet",
+      "translators": ["Scalene Scales"]
+    },
+    "EmergencyJuice": {
+      "name": "Emergency Juice",
+      "translators": ["Scalene Scales"]
+    },
+    "Eurobeat": {
+      "name": "Eurobeat",
+      "translators": ["Scalene Scales"]
+    },
+    "ExplosiveLavaCarapace": {
+      "name": "Explosive Lava Carapace",
+      "translators": ["Scalene Scales"]
+    },
+    "FashionablePajamas": {
+      "name": "Fashionable Pajamas",
+      "translators": ["Scalene Scales"]
+    },
+    "FattyTuna": {
+      "name": "Fatty Tuna",
+      "translators": ["Scalene Scales"]
+    },
+    "FilledHumidifier": {
+      "name": "Filled Humidifier",
+      "translators": ["Scalene Scales"]
+    },
+    "FirstStrike": {
+      "name": "First Strike",
+      "translators": ["Scalene Scales"]
+    },
+    "FishWings": {
+      "name": "Fish Wings",
+      "translators": ["Scalene Scales"]
+    },
+    "FlintAndSteel": {
+      "name": "Flint and Steel",
+      "translators": ["Scalene Scales"]
+    },
+    "FogOfSelfDoubt": {
+      "name": "Fog of Self Doubt",
+      "translators": ["Scalene Scales"]
+    },
+    "Foraging": {
+      "name": "Foraging",
+      "translators": ["Scalene Scales"]
+    },
+    "GamingArc": {
+      "name": "Gaming Arc",
+      "translators": ["Scalene Scales"]
+    },
+    "GrowingEmbers": {
+      "name": "Growing Embers",
+      "translators": ["Scalene Scales"]
+    },
+    "IdolConcert": {
+      "name": "Idol Concert",
+      "translators": ["Scalene Scales"]
+    },
+    "IdolCostume": {
+      "name": "Idol Costume",
+      "translators": ["Scalene Scales"]
+    },
+    "Karaoke": {
+      "name": "Karaoke",
+      "translators": ["Scalene Scales"]
+    },
+    "LavaBody": {
+      "name": "Lava Body",
+      "translators": ["Scalene Scales"]
+    },
+    "LavaCauldron": {
+      "name": "Lava Cauldron",
+      "translators": ["Scalene Scales"]
+    },
+    "LettersOfEncouragement": {
+      "name": "Letters of Encouragement",
+      "translators": ["Scalene Scales"]
+    },
+    "LongBench": {
+      "name": "Long Bench",
+      "translators": ["Scalene Scales"]
+    },
+    "LossAndGain": {
+      "name": "Loss and Gain",
+      "translators": ["Scalene Scales"]
+    },
+    "MusicAlbum": {
+      "name": "Music Album",
+      "translators": ["Scalene Scales"]
+    },
+    "OctopusButt": {
+      "name": "Octopus Butt",
+      "translators": ["Scalene Scales"]
+    },
+    "OmninousPresence": {
+      "name": "Omninous Presence",
+      "translators": ["Scalene Scales"]
+    },
+    "OriginalSong": {
+      "name": "Original Song",
+      "translators": ["Scalene Scales"]
+    },
+    "Oversleep": {
+      "name": "Oversleep",
+      "translators": ["Scalene Scales"]
+    },
+    "PerseveringMentality": {
+      "name": "Persevering Mentality",
+      "translators": ["Scalene Scales"]
+    },
+    "PhoenixHeart": {
+      "name": "Phoenix Heart",
+      "translators": ["Scalene Scales"]
+    },
+    "PizzaParty": {
+      "name": "Pizza Party",
+      "translators": ["Scalene Scales"]
+    },
+    "Polyglot": {
+      "name": "Polyglot",
+      "translators": ["Scalene Scales"]
+    },
+    "PotionBelt": {
+      "name": "Potion Belt",
+      "translators": ["Scalene Scales"]
+    },
+    "QuadrantIII": {
+      "name": "Quadrant III",
+      "translators": ["Scalene Scales"]
+    },
+    "RearPillow": {
+      "name": "Rear Pillow",
+      "translators": ["Scalene Scales"]
+    },
+    "RegeneratingScyllaHeads": {
+      "name": "Regenerating Scylla Heads",
+      "translators": ["Scalene Scales"]
+    },
+    "SakeOfObserving": {
+      "name": "Sake of Observing",
+      "translators": ["Scalene Scales"]
+    },
+    "Skinship": {
+      "name": "Skinship",
+      "translators": ["Scalene Scales"]
+    },
+    "SplashOfLava": {
+      "name": "Splash of Lava",
+      "translators": ["Scalene Scales"]
+    },
+    "SuspiciousAbalone": {
+      "name": "Suspicious Abalone",
+      "translators": ["Scalene Scales"]
+    },
+    "TheFourthRefrain": {
+      "name": "The Fourth Refrain",
+      "translators": ["Scalene Scales"]
+    },
+    "TheMissing4And5": {
+      "name": "The Missing 4 And 5",
+      "translators": ["Scalene Scales"]
+    },
+    "TheRedTrident": {
+      "name": "The Red Trident",
+      "translators": ["Scalene Scales"]
+    },
+    "TournamentTrophy": {
+      "name": "Tournament Trophy",
+      "translators": ["Scalene Scales"]
+    },
+    "Tracksuit": {
+      "name": "Tracksuit",
+      "translators": ["Scalene Scales"]
+    },
+    "TraumatizingScene": {
+      "name": "Traumatizing Scene",
+      "translators": ["Scalene Scales"]
+    },
+    "TwistingBodyOfVoid": {
+      "name": "Twisting Body of Void",
+      "translators": ["Scalene Scales"]
+    },
+    "Unrescuable": {
+      "name": "Unrescuable",
+      "translators": ["Scalene Scales"]
+    }
+  }
+}

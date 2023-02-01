@@ -1,1 +1,14 @@
-{}
+{
+  "map": {
+    "PotionOfHealth": {
+      "name": "Potion of Health",
+      "text": ["Heal 50% of your health"],
+      "translators": ["Scalene Scales"]
+    },
+    "PotionOfBlock": {
+      "name": "Potion of Block",
+      "text": ["Gain 30 block"],
+      "translators": ["Scalene Scales"]
+    }
+  }
+}

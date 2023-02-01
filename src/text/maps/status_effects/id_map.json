@@ -1,1 +1,376 @@
-{}
+{
+  "map": {
+    "247News": {
+      "name": "24/7 News",
+      "translators": ["Scalene Scales"]
+    },
+    "Ambush": {
+      "name": "Ambush",
+      "translators": ["Scalene Scales"]
+    },
+    "Ambushed": {
+      "name": "Ambushed",
+      "translators": ["Scalene Scales"]
+    },
+    "Armoured": {
+      "name": "Armoured",
+      "translators": ["Scalene Scales"]
+    },
+    "Artifact:BeetlePancakes": {
+      "name": "Beetle Pancakes",
+      "translators": ["Scalene Scales"]
+    },
+    "Artifact:DirtyRag": {
+      "name": "Dirty Rag",
+      "translators": ["Scalene Scales"]
+    },
+    "Artifact:EmergencyJuice": {
+      "name": "Emergency Juice",
+      "translators": ["Scalene Scales"]
+    },
+    "Artifact:Eurobeat": {
+      "name": "Eurobeat",
+      "translators": ["Scalene Scales"]
+    },
+    "Artifact:ExplosiveLavaCarapace": {
+      "name": "Explosive Lava Carapace",
+      "translators": ["Scalene Scales"]
+    },
+    "Artifact:FashionablePajamas": {
+      "name": "Fashionable Pajamas",
+      "translators": ["Scalene Scales"]
+    },
+    "Artifact:FattyTuna": {
+      "name": "Fatty Tuna",
+      "translators": ["Scalene Scales"]
+    },
+    "Artifact:FilledHumidifier": {
+      "name": "Filled Humidifier",
+      "translators": ["Scalene Scales"]
+    },
+    "Artifact:FlintAndSteel": {
+      "name": "Flint and Steel",
+      "translators": ["Scalene Scales"]
+    },
+    "Artifact:Foraging": {
+      "name": "Foraging",
+      "translators": ["Scalene Scales"]
+    },
+    "Artifact:GrowingEmbers": {
+      "name": "Growing Embers",
+      "translators": ["Scalene Scales"]
+    },
+    "Artifact:LongBench": {
+      "name": "Long Bench",
+      "translators": ["Scalene Scales"]
+    },
+    "Artifact:LossAndGain": {
+      "name": "Loss and Gain",
+      "translators": ["Scalene Scales"]
+    },
+    "Artifact:PhoenixHeart": {
+      "name": "Phoenix Heart",
+      "translators": ["Scalene Scales"]
+    },
+    "Artifact:Polyglot": {
+      "name": "Polyglot",
+      "translators": ["Scalene Scales"]
+    },
+    "Artifact:RegeneratingScyllaHeads": {
+      "name": "Regenerating Scylla Heads",
+      "translators": ["Scalene Scales"]
+    },
+    "Artifact:SakeOfObserving": {
+      "name": "Sake of Observing",
+      "translators": ["Scalene Scales"]
+    },
+    "Artifact:SuspiciousAbalone": {
+      "name": "Suspicious Abalone",
+      "translators": ["Scalene Scales"]
+    },
+    "Artifact:TheFourthRefrain": {
+      "name": "The Fourth Refrain",
+      "translators": ["Scalene Scales"]
+    },
+    "Artifact:TraumatizingScene": {
+      "name": "Traumatizing Scene",
+      "translators": ["Scalene Scales"]
+    },
+    "Artifact:TwistingBodyOfVoid": {
+      "name": "Twisting Body of Void",
+      "translators": ["Scalene Scales"]
+    },
+    "Artifact:Unrescuable": {
+      "name": "Artifact:Unrescuable",
+      "translators": ["Scalene Scales"]
+    },
+    "Bide": {
+      "name": "Bide",
+      "translators": ["Scalene Scales"]
+    },
+    "BilingualNews": {
+      "name": "Bilingual News",
+      "translators": ["Scalene Scales"]
+    },
+    "Blessing": {
+      "name": "Blessing",
+      "translators": ["Scalene Scales"]
+    },
+    "CaughtOffGuard": {
+      "name": "Caught Off Guard",
+      "translators": ["Scalene Scales"]
+    },
+    "ColdReading": {
+      "name": "Cold Reading",
+      "translators": ["Scalene Scales"]
+    },
+    "DanceLessons": {
+      "name": "Dance Lessons",
+      "translators": ["Scalene Scales"]
+    },
+    "DefenceDown": {
+      "name": "Defence Down",
+      "translators": ["Scalene Scales"]
+    },
+    "DefenceUp": {
+      "name": "Defence Up",
+      "translators": ["Scalene Scales"]
+    },
+    "DivineAura": {
+      "name": "Divine Aura",
+      "translators": ["Scalene Scales"]
+    },
+    "Dreaming": {
+      "name": "Dreaming",
+      "translators": ["Scalene Scales"]
+    },
+    "Encouraged": {
+      "name": "Encouraged",
+      "translators": ["Scalene Scales"]
+    },
+    "EnduringHardship": {
+      "name": "Enduring Hardship",
+      "translators": ["Scalene Scales"]
+    },
+    "Enthralled": {
+      "name": "Enthralled",
+      "translators": ["Scalene Scales"]
+    },
+    "Enthralling": {
+      "name": "Enthralling",
+      "translators": ["Scalene Scales"]
+    },
+    "EstablishedServices": {
+      "name": "Established Services",
+      "translators": ["Scalene Scales"]
+    },
+    "Evade": {
+      "name": "Evade",
+      "translators": ["Scalene Scales"]
+    },
+    "FlameWaltz": {
+      "name": "Flame Waltz",
+      "translators": ["Scalene Scales"]
+    },
+    "Flameclad": {
+      "name": "Flameclad",
+      "translators": ["Scalene Scales"]
+    },
+    "Foresight": {
+      "name": "Foresight",
+      "translators": ["Scalene Scales"]
+    },
+    "ForgedInFlames": {
+      "name": "Forged in Flames",
+      "translators": ["Scalene Scales"]
+    },
+    "Grappled": {
+      "name": "Grappled",
+      "translators": ["Scalene Scales"]
+    },
+    "Hardy": {
+      "name": "Hardy",
+      "translators": ["Scalene Scales"]
+    },
+    "Hidden": {
+      "name": "Hidden",
+      "translators": ["Scalene Scales"]
+    },
+    "Hookie": {
+      "name": "Hookie",
+      "translators": ["Scalene Scales"]
+    },
+    "IdolStep": {
+      "name": "Idol Step",
+      "translators": ["Scalene Scales"]
+    },
+    "ImminentBlessing": {
+      "name": "Imminent Blessing",
+      "translators": ["Scalene Scales"]
+    },
+    "ImminentMisfortune": {
+      "name": "Imminent Misfortune",
+      "translators": ["Scalene Scales"]
+    },
+    "ImpendingBlessing": {
+      "name": "Impending Blessing",
+      "translators": ["Scalene Scales"]
+    },
+    "ImpendingMisfortune": {
+      "name": "Impending Misfortune",
+      "translators": ["Scalene Scales"]
+    },
+    "IndiscriminateDesire": {
+      "name": "Indiscriminate Desire",
+      "translators": ["Scalene Scales"]
+    },
+    "InsideScoop": {
+      "name": "Inside Scoop",
+      "translators": ["Scalene Scales"]
+    },
+    "InterpretiveDance": {
+      "name": "Interpretive Dance",
+      "translators": ["Scalene Scales"]
+    },
+    "Intimidated": {
+      "name": "Intimidated",
+      "translators": ["Scalene Scales"]
+    },
+    "JoyOfOrganizing": {
+      "name": "Joy of Organizing",
+      "translators": ["Scalene Scales"]
+    },
+    "Leisure": {
+      "name": "Leisure",
+      "translators": ["Scalene Scales"]
+    },
+    "Lucky": {
+      "name": "Lucky",
+      "translators": ["Scalene Scales"]
+    },
+    "Misfortune": {
+      "name": "Misfortune",
+      "translators": ["Scalene Scales"]
+    },
+    "MorningNews": {
+      "name": "Morning News",
+      "translators": ["Scalene Scales"]
+    },
+    "Obsessed": {
+      "name": "Obsessed",
+      "translators": ["Scalene Scales"]
+    },
+    "Optimism": {
+      "name": "Optimism",
+      "translators": ["Scalene Scales"]
+    },
+    "OvercomingPain": {
+      "name": "Overcoming Pain",
+      "translators": ["Scalene Scales"]
+    },
+    "Poison": {
+      "name": "Poison",
+      "translators": ["Scalene Scales"]
+    },
+    "Prepared": {
+      "name": "Prepared",
+      "translators": ["Scalene Scales"]
+    },
+    "Pressure": {
+      "name": "Pressure",
+      "translators": ["Scalene Scales"]
+    },
+    "Rage": {
+      "name": "Rage",
+      "translators": ["Scalene Scales"]
+    },
+    "RainyDayFund": {
+      "name": "Rainy Day Fund",
+      "translators": ["Scalene Scales"]
+    },
+    "Refinement": {
+      "name": "Refinement",
+      "translators": ["Scalene Scales"]
+    },
+    "RefinementStreak": {
+      "name": "Refinement Streak",
+      "translators": ["Scalene Scales"]
+    },
+    "RequestForChanges": {
+      "name": "Request for Changes",
+      "translators": ["Scalene Scales"]
+    },
+    "RightHanded": {
+      "name": "Right-handed",
+      "translators": ["Scalene Scales"]
+    },
+    "RitualDance": {
+      "name": "Ritual Dance",
+      "translators": ["Scalene Scales"]
+    },
+    "Scheduling": {
+      "name": "Scheduling",
+      "translators": ["Scalene Scales"]
+    },
+    "Serpentine": {
+      "name": "Serpentine",
+      "translators": ["Scalene Scales"]
+    },
+    "SpeedDown": {
+      "name": "Speed Down",
+      "translators": ["Scalene Scales"]
+    },
+    "SpeedUp": {
+      "name": "Speed Up",
+      "translators": ["Scalene Scales"]
+    },
+    "SteadyProgress": {
+      "name": "Steady Progress",
+      "translators": ["Scalene Scales"]
+    },
+    "Stockpiling": {
+      "name": "Stockpiling",
+      "translators": ["Scalene Scales"]
+    },
+    "StrengthDown": {
+      "name": "Strength Down",
+      "translators": ["Scalene Scales"]
+    },
+    "StrengthUp": {
+      "name": "Strength Up",
+      "translators": ["Scalene Scales"]
+    },
+    "SynchronizedDancing": {
+      "name": "Synchronized Dancing",
+      "translators": ["Scalene Scales"]
+    },
+    "Taunt": {
+      "name": "Taunt",
+      "translators": ["Scalene Scales"]
+    },
+    "TemporarySpeedDown": {
+      "name": "Temporary Speed Down",
+      "translators": ["Scalene Scales"]
+    },
+    "TemporarySpeedUp": {
+      "name": "Temporary Speed Up",
+      "translators": ["Scalene Scales"]
+    },
+    "Thorns": {
+      "name": "Thorns",
+      "translators": ["Scalene Scales"]
+    },
+    "Trauma": {
+      "name": "Trauma",
+      "translators": ["Scalene Scales"]
+    },
+    "Wrapped": {
+      "name": "Wrapped",
+      "translators": ["Scalene Scales"]
+    },
+    "WrathForm": {
+      "name": "Wrath Form",
+      "translators": ["Scalene Scales"]
+    }
+  }
+}
