@@ -273,6 +273,13 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/enduring_hardship.png"
       }
     },
+    "Ensnared": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/ensnared.png"
+      }
+    },
     "Enthralled": {
       "icon": {
         "artist": "Scalene Scales",
@@ -642,13 +649,6 @@
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/trauma.png"
-      }
-    },
-    "Wrapped": {
-      "icon": {
-        "artist": "Scalene Scales",
-        "license": "CC-BY-2.0",
-        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/wrapped.png"
       }
     },
     "WrathForm": {
