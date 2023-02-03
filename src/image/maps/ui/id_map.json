@@ -1,0 +1,11 @@
+{
+  "map": {
+    "title": {
+      "background": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/ui/title.png"
+      }
+    }
+  }
+}

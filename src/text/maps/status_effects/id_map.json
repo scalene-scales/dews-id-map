@@ -52,6 +52,10 @@
       "name": "Flint and Steel",
       "translators": ["Scalene Scales"]
     },
+    "Artifact:FogOfSelfDoubt": {
+      "name": "Self-Doubt",
+      "translators": ["Scalene Scales"]
+    },
     "Artifact:Foraging": {
       "name": "Foraging",
       "translators": ["Scalene Scales"]
