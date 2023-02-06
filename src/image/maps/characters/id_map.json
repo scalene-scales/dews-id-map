@@ -408,16 +408,16 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/bestiary/tendril_of_malice.png"
       }
     },
-    "ThePhoenix": {
+    "TheWanderingPhoenix": {
       "icon": {
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
-        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/roster/the_phoenix/icon.png"
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/roster/the_wandering_phoenix/icon.png"
       },
       "image": {
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
-        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/roster/the_phoenix/default.png"
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/roster/the_wandering_phoenix/default.png"
       }
     },
     "TheShrineMaiden": {
