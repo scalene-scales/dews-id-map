@@ -7,11 +7,67 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/potions/icons/potion_of_block.png"
       }
     },
+    "PotionOfCourage": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/potions/default.png"
+      }
+    },
+    "PotionOfDefence": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/potions/default.png"
+      }
+    },
+    "PotionOfEnergy": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/potions/icons/potion_of_energy.png"
+      }
+    },
     "PotionOfHealth": {
       "icon": {
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/potions/icons/potion_of_health.png"
+      }
+    },
+    "PotionOfSpeed": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/potions/icons/potion_of_speed.png"
+      }
+    },
+    "PotionOfStrength": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/potions/icons/potion_of_strength.png"
+      }
+    },
+    "TheTimeLordsLastResort": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/potions/icons/the_time_lords_last_resort.png"
+      }
+    },
+    "TheTimeLordsReserve": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/potions/icons/the_time_lords_reserve.png"
+      }
+    },
+    "TheTimeLordsSpecial": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/potions/icons/the_time_lords_special.png"
       }
     }
   }
