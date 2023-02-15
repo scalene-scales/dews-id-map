@@ -1,13 +1,45 @@
 {
   "map": {
+    "PotionOfBlock": {
+      "name": "Potion of Block",
+      "text": ["Gain 30 block"],
+      "translators": ["Scalene Scales"]
+    },
+    "PotionOfCourage": {
+      "name": "Potion Of Courage",
+      "translators": ["Scalene Scales"]
+    },
+    "PotionOfDefence": {
+      "name": "Potion Of Defence",
+      "translators": ["Scalene Scales"]
+    },
+    "PotionOfEnergy": {
+      "name": "Potion Of Energy",
+      "translators": ["Scalene Scales"]
+    },
     "PotionOfHealth": {
       "name": "Potion of Health",
       "text": ["Heal 50% of your health"],
       "translators": ["Scalene Scales"]
     },
-    "PotionOfBlock": {
-      "name": "Potion of Block",
-      "text": ["Gain 30 block"],
+    "PotionOfSpeed": {
+      "name": "Potion Of Speed",
+      "translators": ["Scalene Scales"]
+    },
+    "PotionOfStrength": {
+      "name": "Potion Of Strength",
+      "translators": ["Scalene Scales"]
+    },
+    "TheTimeLordsLastResort": {
+      "name": "The Time Lord's Last Resort",
+      "translators": ["Scalene Scales"]
+    },
+    "TheTimeLordsReserve": {
+      "name": "The Time Lord's Reserve",
+      "translators": ["Scalene Scales"]
+    },
+    "TheTimeLordsSpecial": {
+      "name": "The Time Lord's Special",
       "translators": ["Scalene Scales"]
     }
   }

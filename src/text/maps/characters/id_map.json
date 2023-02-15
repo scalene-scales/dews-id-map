@@ -136,12 +136,24 @@
       "name": "Tendril of Malice",
       "translators": ["Scalene Scales"]
     },
-    "TheWanderingPhoenix": {
-      "name": "The Wandering Phoenix",
+    "TheDireWolf": {
+      "name": "The Dire Wolf",
+      "translators": ["Scalene Scales"]
+    },
+    "TheGoddessOfLust": {
+      "name": "The Goddess of Lust",
       "translators": ["Scalene Scales"]
     },
     "TheShrineMaiden": {
       "name": "The Shrine Maiden",
+      "translators": ["Scalene Scales"]
+    },
+    "TheTimeTraveler": {
+      "name": "The Time Traveler",
+      "translators": ["Scalene Scales"]
+    },
+    "TheWanderingPhoenix": {
+      "name": "The Wandering Phoenix",
       "translators": ["Scalene Scales"]
     },
     "TrainingDummy": {
@@ -158,6 +170,10 @@
     },
     "WallOfFire": {
       "name": "Wall of Fire",
+      "translators": ["Scalene Scales"]
+    },
+    "WaterBarrier": {
+      "name": "Water Barrier",
       "translators": ["Scalene Scales"]
     },
     "WingedOctopus": {

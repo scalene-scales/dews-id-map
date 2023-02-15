@@ -8,6 +8,10 @@
       "name": "Devour",
       "translators": ["Scalene Scales"]
     },
+    "FetishX": {
+      "name": "Fetish X",
+      "translators": ["Scalene Scales"]
+    },
     "FortuneTell": {
       "name": "Fortune Tell",
       "translators": ["Scalene Scales"]
@@ -24,8 +28,20 @@
       "name": "Plan X",
       "translators": ["Scalene Scales"]
     },
+    "Predate": {
+      "name": "Predate",
+      "translators": ["Scalene Scales"]
+    },
     "Ranged": {
       "name": "Ranged",
+      "translators": ["Scalene Scales"]
+    },
+    "ReportX": {
+      "name": "Report X",
+      "translators": ["Scalene Scales"]
+    },
+    "Stack": {
+      "name": "Stack",
       "translators": ["Scalene Scales"]
     }
   }

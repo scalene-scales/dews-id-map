@@ -4,6 +4,22 @@
       "name": "ASMR",
       "translators": ["Scalene Scales"]
     },
+    "Adoration": {
+      "name": "Adoration",
+      "translators": ["Scalene Scales"]
+    },
+    "Affection": {
+      "name": "Affection",
+      "translators": ["Scalene Scales"]
+    },
+    "Antipathy": {
+      "name": "Antipathy",
+      "translators": ["Scalene Scales"]
+    },
+    "Apathy": {
+      "name": "Apathy",
+      "translators": ["Scalene Scales"]
+    },
     "ApexInstincts": {
       "name": "Apex Instincts",
       "translators": ["Scalene Scales"]
@@ -28,8 +44,16 @@
       "name": "Cover Song",
       "translators": ["Scalene Scales"]
     },
+    "DaughterOfTheHunt": {
+      "name": "Daughter of the Hunt",
+      "translators": ["Scalene Scales"]
+    },
     "DirtyRag": {
       "name": "Dirty Rag",
+      "translators": ["Scalene Scales"]
+    },
+    "DivineGarments": {
+      "name": "Divine Garments",
       "translators": ["Scalene Scales"]
     },
     "DreamJournal": {
@@ -92,12 +116,20 @@
       "name": "Growing Embers",
       "translators": ["Scalene Scales"]
     },
+    "HealthySleep": {
+      "name": "Healthy Sleep",
+      "translators": ["Scalene Scales"]
+    },
     "IdolConcert": {
       "name": "Idol Concert",
       "translators": ["Scalene Scales"]
     },
     "IdolCostume": {
       "name": "Idol Costume",
+      "translators": ["Scalene Scales"]
+    },
+    "Ingenuity": {
+      "name": "Ingenuity",
       "translators": ["Scalene Scales"]
     },
     "Karaoke": {
@@ -122,6 +154,14 @@
     },
     "LossAndGain": {
       "name": "Loss and Gain",
+      "translators": ["Scalene Scales"]
+    },
+    "MagnifyingGlass": {
+      "name": "Magnifying Glass",
+      "translators": ["Scalene Scales"]
+    },
+    "MotherlySpriit": {
+      "name": "Motherly Spriit",
       "translators": ["Scalene Scales"]
     },
     "MusicAlbum": {
@@ -168,6 +208,10 @@
       "name": "Quadrant III",
       "translators": ["Scalene Scales"]
     },
+    "RainbowGag": {
+      "name": "Rainbow Gag",
+      "translators": ["Scalene Scales"]
+    },
     "RearPillow": {
       "name": "Rear Pillow",
       "translators": ["Scalene Scales"]
@@ -190,6 +234,10 @@
     },
     "SuspiciousAbalone": {
       "name": "Suspicious Abalone",
+      "translators": ["Scalene Scales"]
+    },
+    "TarotDeck": {
+      "name": "Tarot Deck",
       "translators": ["Scalene Scales"]
     },
     "TheFourthRefrain": {

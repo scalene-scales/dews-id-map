@@ -8,6 +8,18 @@
       "name": "A Good Day's Work",
       "translators": ["Scalene Scales"]
     },
+    "Aceelerate": {
+      "name": "Aceelerate",
+      "translators": ["Scalene Scales"]
+    },
+    "AgedBrewing": {
+      "name": "Aged Brewing",
+      "translators": ["Scalene Scales"]
+    },
+    "AlternateTimeline": {
+      "name": "Alternate Timeline",
+      "translators": ["Scalene Scales"]
+    },
     "Ambush": {
       "name": "Ambush",
       "translators": ["Scalene Scales"]
@@ -20,6 +32,26 @@
       "name": "Aquafication",
       "translators": ["Scalene Scales"]
     },
+    "Arrogance": {
+      "name": "Arrogance",
+      "translators": ["Scalene Scales"]
+    },
+    "Backtalk": {
+      "name": "Backtalk",
+      "translators": ["Scalene Scales"]
+    },
+    "Bathe": {
+      "name": "Bathe",
+      "translators": ["Scalene Scales"]
+    },
+    "BelieveInYou": {
+      "name": "BelieveInYou",
+      "translators": ["Scalene Scales"]
+    },
+    "Belittle": {
+      "name": "Belittle",
+      "translators": ["Scalene Scales"]
+    },
     "Bide": {
       "name": "Bide",
       "translators": ["Scalene Scales"]
@@ -28,12 +60,32 @@
       "name": "Bilingual News Show",
       "translators": ["Scalene Scales"]
     },
+    "Bite": {
+      "name": "Bite",
+      "translators": ["Scalene Scales"]
+    },
+    "BlackoutDrinking": {
+      "name": "Blackout Drinking",
+      "translators": ["Scalene Scales"]
+    },
+    "BoomHeadshot": {
+      "name": "Boom! Headshot!",
+      "translators": ["Scalene Scales"]
+    },
     "BreakDance": {
       "name": "Break Dance",
       "translators": ["Scalene Scales"]
     },
+    "Brew": {
+      "name": "Brew",
+      "translators": ["Scalene Scales"]
+    },
     "BroadcastingLiveNow": {
       "name": "Broadcasting Live Now!",
+      "translators": ["Scalene Scales"]
+    },
+    "BrokenBottle": {
+      "name": "Broken Bottle",
       "translators": ["Scalene Scales"]
     },
     "BubblyBork": {
@@ -56,6 +108,14 @@
       "name": "Swallow",
       "translators": ["Scalene Scales"]
     },
+    "Chimera": {
+      "name": "Chimera",
+      "translators": ["Scalene Scales"]
+    },
+    "Cleanse": {
+      "name": "Cleanse",
+      "translators": ["Scalene Scales"]
+    },
     "ColdReading": {
       "name": "Cold Reading",
       "translators": ["Scalene Scales"]
@@ -68,12 +128,24 @@
       "name": "Confragration",
       "translators": ["Scalene Scales"]
     },
+    "Connoisseur": {
+      "name": "Connoisseur",
+      "translators": ["Scalene Scales"]
+    },
     "ContaminatedBento": {
       "name": "Contaminated Bento",
       "translators": ["Scalene Scales"]
     },
+    "Craftsmanship": {
+      "name": "Craftsmanship",
+      "translators": ["Scalene Scales"]
+    },
     "CrashIntoTheGround": {
       "name": "Crash into the Ground",
+      "translators": ["Scalene Scales"]
+    },
+    "CreepOut": {
+      "name": "Creep Out",
       "translators": ["Scalene Scales"]
     },
     "DailyPracticeRoutine": {
@@ -84,12 +156,24 @@
       "name": "Dance Lessons",
       "translators": ["Scalene Scales"]
     },
+    "Decoy": {
+      "name": "Decoy",
+      "translators": ["Scalene Scales"]
+    },
     "Defend": {
       "name": "Defend",
       "translators": ["Scalene Scales"]
     },
+    "DegenerateAttack": {
+      "name": "Degenerate Attack",
+      "translators": ["Scalene Scales"]
+    },
     "DelegateTask": {
       "name": "Delegate Task",
+      "translators": ["Scalene Scales"]
+    },
+    "Demonstrate": {
+      "name": "Demonstrate",
       "translators": ["Scalene Scales"]
     },
     "Dirt": {
@@ -98,6 +182,10 @@
     },
     "DirtyTalk": {
       "name": "Dirty Talk",
+      "translators": ["Scalene Scales"]
+    },
+    "Discard1Card": {
+      "name": "Discard 1 Card",
       "translators": ["Scalene Scales"]
     },
     "Dive": {
@@ -112,8 +200,20 @@
       "name": "Diving Maneuver",
       "translators": ["Scalene Scales"]
     },
+    "Donate": {
+      "name": "Donate",
+      "translators": ["Scalene Scales"]
+    },
+    "DoubleTime": {
+      "name": "Double Time",
+      "translators": ["Scalene Scales"]
+    },
     "DragBelow": {
       "name": "Drag Below the Waves",
+      "translators": ["Scalene Scales"]
+    },
+    "DragIntoDegeneracy": {
+      "name": "Drag into Degeneracy",
       "translators": ["Scalene Scales"]
     },
     "Draw1Card": {
@@ -124,8 +224,20 @@
       "name": "Draw 2 cards",
       "translators": ["Scalene Scales"]
     },
+    "DuckAndCover": {
+      "name": "Duck and Cover",
+      "translators": ["Scalene Scales"]
+    },
+    "Educate": {
+      "name": "Educate",
+      "translators": ["Scalene Scales"]
+    },
     "EmergencyReserve": {
       "name": "Emergency Reserve",
+      "translators": ["Scalene Scales"]
+    },
+    "EncirclementAttack": {
+      "name": "Encirclement Attack",
       "translators": ["Scalene Scales"]
     },
     "EndlessMalice": {
@@ -148,6 +260,10 @@
       "name": "Event Proposal",
       "translators": ["Scalene Scales"]
     },
+    "ExcitedAttack": {
+      "name": "Excited Attack",
+      "translators": ["Scalene Scales"]
+    },
     "FairyCombustion": {
       "name": "Combustion",
       "translators": ["Scalene Scales"]
@@ -166,6 +282,10 @@
     },
     "FeebleWhimper": {
       "name": "Whimper",
+      "translators": ["Scalene Scales"]
+    },
+    "FeedTheHungry": {
+      "name": "Feed the Hungry",
       "translators": ["Scalene Scales"]
     },
     "FeedingFrenzy": {
@@ -192,6 +312,10 @@
       "name": "Firestorm",
       "translators": ["Scalene Scales"]
     },
+    "FirstAid": {
+      "name": "First Aid",
+      "translators": ["Scalene Scales"]
+    },
     "Fissure": {
       "name": "Fissure",
       "translators": ["Scalene Scales"]
@@ -214,6 +338,10 @@
     },
     "Flashfire": {
       "name": "Flashfire",
+      "translators": ["Scalene Scales"]
+    },
+    "FlickShot": {
+      "name": "Flick Shot",
       "translators": ["Scalene Scales"]
     },
     "Flourish": {
@@ -240,8 +368,16 @@
       "name": "Fortold Salvation",
       "translators": ["Scalene Scales"]
     },
+    "Fundraise": {
+      "name": "Fundraise",
+      "translators": ["Scalene Scales"]
+    },
     "FutileDefense": {
       "name": "Futile Defense",
+      "translators": ["Scalene Scales"]
+    },
+    "Gash": {
+      "name": "Gash",
       "translators": ["Scalene Scales"]
     },
     "Glomp": {
@@ -252,8 +388,24 @@
       "name": "Grope",
       "translators": ["Scalene Scales"]
     },
+    "HoardedMaterial": {
+      "name": "Hoarded Material",
+      "translators": ["Scalene Scales"]
+    },
     "Hookie": {
       "name": "Hookie",
+      "translators": ["Scalene Scales"]
+    },
+    "Hubris": {
+      "name": "Hubris",
+      "translators": ["Scalene Scales"]
+    },
+    "Humiliate": {
+      "name": "Humiliate",
+      "translators": ["Scalene Scales"]
+    },
+    "HuntDown": {
+      "name": "Hunt Down",
       "translators": ["Scalene Scales"]
     },
     "HypedUpAttack": {
@@ -270,6 +422,10 @@
     },
     "ImNotLeftHanded": {
       "name": "I'm not Left-handed",
+      "translators": ["Scalene Scales"]
+    },
+    "IncognitoMode": {
+      "name": "Incognito Mode",
       "translators": ["Scalene Scales"]
     },
     "IncrementalRefinement": {
@@ -304,6 +460,10 @@
       "name": "Joy of Organizing",
       "translators": ["Scalene Scales"]
     },
+    "Killstreak": {
+      "name": "Killstreak",
+      "translators": ["Scalene Scales"]
+    },
     "KrakenFlail": {
       "name": "Flail",
       "translators": ["Scalene Scales"]
@@ -328,6 +488,10 @@
       "name": "Lavicious Attack",
       "translators": ["Scalene Scales"]
     },
+    "LaviousTreatment": {
+      "name": "Lavious Treatment",
+      "translators": ["Scalene Scales"]
+    },
     "LeadTheWay": {
       "name": "Lead the Way",
       "translators": ["Scalene Scales"]
@@ -340,8 +504,20 @@
       "name": "Lift into the Sky",
       "translators": ["Scalene Scales"]
     },
+    "LiquidShape": {
+      "name": "Liquid Shape",
+      "translators": ["Scalene Scales"]
+    },
+    "LostInEcstasy": {
+      "name": "Lost in Ecstasy",
+      "translators": ["Scalene Scales"]
+    },
     "LuckyTotem": {
       "name": "Lucky Totem",
+      "translators": ["Scalene Scales"]
+    },
+    "Maim": {
+      "name": "Maim",
       "translators": ["Scalene Scales"]
     },
     "MemorizedDefense": {
@@ -428,8 +604,16 @@
       "name": "Paparazzi!",
       "translators": ["Scalene Scales"]
     },
+    "PepTalk": {
+      "name": "Pep Talk",
+      "translators": ["Scalene Scales"]
+    },
     "PerfectedOffensive": {
       "name": "Perfected Offensive",
+      "translators": ["Scalene Scales"]
+    },
+    "PhaseShift": {
+      "name": "Phase Shift",
       "translators": ["Scalene Scales"]
     },
     "Plan1": {
@@ -452,12 +636,32 @@
       "name": "Practiced Offensive",
       "translators": ["Scalene Scales"]
     },
+    "PrimialInstincts": {
+      "name": "Primial Instincts",
+      "translators": ["Scalene Scales"]
+    },
+    "PrivateCollection": {
+      "name": "Private Collection",
+      "translators": ["Scalene Scales"]
+    },
+    "ProvideShelter": {
+      "name": "Provide Shelter",
+      "translators": ["Scalene Scales"]
+    },
     "RabidBite": {
       "name": "Bite",
       "translators": ["Scalene Scales"]
     },
+    "RainBarrel": {
+      "name": "Rain Barrel",
+      "translators": ["Scalene Scales"]
+    },
     "RainyDayFund": {
       "name": "Rainy Day Fund",
+      "translators": ["Scalene Scales"]
+    },
+    "Recall": {
+      "name": "Recall",
       "translators": ["Scalene Scales"]
     },
     "RefinedAttack": {
@@ -472,16 +676,32 @@
       "name": "Rehearsed Performance",
       "translators": ["Scalene Scales"]
     },
+    "Reloading": {
+      "name": "Reloading!",
+      "translators": ["Scalene Scales"]
+    },
     "Reorganize": {
       "name": "Reorganize",
+      "translators": ["Scalene Scales"]
+    },
+    "RepositionAndAim": {
+      "name": "Reposition and Aim",
       "translators": ["Scalene Scales"]
     },
     "RequestForChanges": {
       "name": "Request for Changes",
       "translators": ["Scalene Scales"]
     },
+    "ReservedSelection": {
+      "name": "Reserved Selection",
+      "translators": ["Scalene Scales"]
+    },
     "RitualDance": {
       "name": "Ritual Dance",
+      "translators": ["Scalene Scales"]
+    },
+    "Roar": {
+      "name": "Roar",
       "translators": ["Scalene Scales"]
     },
     "RoarOfWrath": {
@@ -512,8 +732,16 @@
       "name": "Split Off",
       "translators": ["Scalene Scales"]
     },
+    "SearchForMaterial": {
+      "name": "Search for Material",
+      "translators": ["Scalene Scales"]
+    },
     "SelfConscious": {
       "name": "Self-conscious",
+      "translators": ["Scalene Scales"]
+    },
+    "Selflessness": {
+      "name": "Selflessness",
       "translators": ["Scalene Scales"]
     },
     "Sharkbite": {
@@ -526,6 +754,18 @@
     },
     "Shockwave": {
       "name": "Shockwave",
+      "translators": ["Scalene Scales"]
+    },
+    "ShoreUp": {
+      "name": "Shore Up",
+      "translators": ["Scalene Scales"]
+    },
+    "ShoulderBurden": {
+      "name": "Shoulder Burden",
+      "translators": ["Scalene Scales"]
+    },
+    "ShowOfGenerosity": {
+      "name": "Show of Generosity",
       "translators": ["Scalene Scales"]
     },
     "SinkingGround": {
@@ -544,12 +784,36 @@
       "name": "Bite",
       "translators": ["Scalene Scales"]
     },
+    "Slow": {
+      "name": "Slow",
+      "translators": ["Scalene Scales"]
+    },
+    "SmallSips": {
+      "name": "Small Sips",
+      "translators": ["Scalene Scales"]
+    },
+    "SpecialConcotion": {
+      "name": "Special Concotion",
+      "translators": ["Scalene Scales"]
+    },
     "SpecialReport": {
       "name": "Special Report",
       "translators": ["Scalene Scales"]
     },
+    "Splash": {
+      "name": "Splash",
+      "translators": ["Scalene Scales"]
+    },
     "SpriteEmbers": {
       "name": "Embers",
+      "translators": ["Scalene Scales"]
+    },
+    "Stalk": {
+      "name": "Stalk",
+      "translators": ["Scalene Scales"]
+    },
+    "Stasis": {
+      "name": "Stasis",
       "translators": ["Scalene Scales"]
     },
     "SteadyProgress": {
@@ -558,6 +822,10 @@
     },
     "Stockpile": {
       "name": "Stockpile",
+      "translators": ["Scalene Scales"]
+    },
+    "Strafe": {
+      "name": "Strafe",
       "translators": ["Scalene Scales"]
     },
     "Strike": {
@@ -584,8 +852,44 @@
       "name": "Summon Fire Sprites",
       "translators": ["Scalene Scales"]
     },
+    "SuperiorAttack": {
+      "name": "Superior Attack",
+      "translators": ["Scalene Scales"]
+    },
+    "SuppressingFire": {
+      "name": "Suppressing Fire",
+      "translators": ["Scalene Scales"]
+    },
+    "SurpriseGift": {
+      "name": "Surprise Gift",
+      "translators": ["Scalene Scales"]
+    },
     "SynchronizedDancing": {
       "name": "Synchronized Dancing",
+      "translators": ["Scalene Scales"]
+    },
+    "TakeAim": {
+      "name": "Take Aim...",
+      "translators": ["Scalene Scales"]
+    },
+    "TakeCare": {
+      "name": "Take Care",
+      "translators": ["Scalene Scales"]
+    },
+    "Teach": {
+      "name": "Teach",
+      "translators": ["Scalene Scales"]
+    },
+    "Teleport": {
+      "name": "Teleport",
+      "translators": ["Scalene Scales"]
+    },
+    "TemporalFracture": {
+      "name": "Temporal Fracture",
+      "translators": ["Scalene Scales"]
+    },
+    "TemporalHealing": {
+      "name": "Temporal Healing",
       "translators": ["Scalene Scales"]
     },
     "TentaclePierce": {
@@ -600,6 +904,10 @@
       "name": "Terror from Beyond",
       "translators": ["Scalene Scales"]
     },
+    "TheLineOfLust": {
+      "name": "The Line of Lust",
+      "translators": ["Scalene Scales"]
+    },
     "TimeToOrganize": {
       "name": "Time to Organize",
       "translators": ["Scalene Scales"]
@@ -612,12 +920,24 @@
       "name": "Toxin",
       "translators": ["Scalene Scales"]
     },
+    "TrackThePrey": {
+      "name": "Track the Prey",
+      "translators": ["Scalene Scales"]
+    },
+    "TrackingShot": {
+      "name": "Tracking Shot",
+      "translators": ["Scalene Scales"]
+    },
     "Tremor": {
       "name": "Tremor",
       "translators": ["Scalene Scales"]
     },
     "TridentStrike": {
       "name": "Trident Strike",
+      "translators": ["Scalene Scales"]
+    },
+    "Tsunami": {
+      "name": "Tsunami",
       "translators": ["Scalene Scales"]
     },
     "TunaOverheat": {
@@ -628,12 +948,24 @@
       "name": "Ram",
       "translators": ["Scalene Scales"]
     },
+    "TurnOn": {
+      "name": "Turn On",
+      "translators": ["Scalene Scales"]
+    },
+    "UnconditionalLove": {
+      "name": "UnconditionalLove",
+      "translators": ["Scalene Scales"]
+    },
     "UnpracticedOffensive": {
       "name": "Unpracticed Offensive",
       "translators": ["Scalene Scales"]
     },
     "VanishIntoTheVoid": {
       "name": "Vanish into the Void",
+      "translators": ["Scalene Scales"]
+    },
+    "Vanity": {
+      "name": "Vanity",
       "translators": ["Scalene Scales"]
     },
     "VoidLightning": {
@@ -676,8 +1008,36 @@
       "name": "Wall of Fire",
       "translators": ["Scalene Scales"]
     },
+    "WaterBarrier": {
+      "name": "Water Barrier",
+      "translators": ["Scalene Scales"]
+    },
+    "WaterJet": {
+      "name": "Water Jet",
+      "translators": ["Scalene Scales"]
+    },
     "WaterLogged": {
       "name": "Water Logged",
+      "translators": ["Scalene Scales"]
+    },
+    "WaterPrison": {
+      "name": "Water Prison",
+      "translators": ["Scalene Scales"]
+    },
+    "WeightedSachel": {
+      "name": "Weighted Sachel",
+      "translators": ["Scalene Scales"]
+    },
+    "WeightedWack": {
+      "name": "Weighted Wack",
+      "translators": ["Scalene Scales"]
+    },
+    "Welcome": {
+      "name": "Welcome",
+      "translators": ["Scalene Scales"]
+    },
+    "WhereItHurts": {
+      "name": "Where It Hurts",
       "translators": ["Scalene Scales"]
     },
     "Whirlpool": {
@@ -686,6 +1046,10 @@
     },
     "Wildfire": {
       "name": "Wildfire",
+      "translators": ["Scalene Scales"]
+    },
+    "WoundedEgo": {
+      "name": "Wounded Ego",
       "translators": ["Scalene Scales"]
     }
   }
