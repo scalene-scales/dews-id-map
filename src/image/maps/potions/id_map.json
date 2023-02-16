@@ -11,14 +11,14 @@
       "icon": {
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
-        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/potions/default.png"
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/potions/icons/potion_of_courage.png"
       }
     },
     "PotionOfDefence": {
       "icon": {
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
-        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/potions/default.png"
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/potions/icons/potion_of_defence.png"
       }
     },
     "PotionOfEnergy": {
