@@ -424,12 +424,12 @@
       "icon": {
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
-        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/the_goddess_of_lust/icon.png"
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/roster/the_goddess_of_lust/icon.png"
       },
       "image": {
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
-        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/the_goddess_of_lust/default.png"
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/roster/the_goddess_of_lust/default.png"
       }
     },
     "TheShrineMaiden": {
@@ -448,12 +448,12 @@
       "icon": {
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
-        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/the_time_traveler/icon.png"
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/roster/the_time_traveler/icon.png"
       },
       "image": {
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
-        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/the_time_traveler/default.png"
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/characters/roster/the_time_traveler/default.png"
       }
     },
     "TheWanderingPhoenix": {
