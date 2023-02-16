@@ -7,6 +7,34 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/asmr.png"
       }
     },
+    "Adoration": {
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/adoration.png"
+      }
+    },
+    "Affection": {
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/affection.png"
+      }
+    },
+    "Antipathy": {
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/antipathy.png"
+      }
+    },
+    "Apathy": {
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/apathy.png"
+      }
+    },
     "ApexInstincts": {
       "image": {
         "artist": "Scalene Scales",
@@ -49,11 +77,25 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/cover_song.png"
       }
     },
+    "DaughterOfTheHunt": {
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/daughter_of_the_hunt.png"
+      }
+    },
     "DirtyRag": {
       "image": {
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/dirty_rag.png"
+      }
+    },
+    "DivineGarments": {
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/divine_garments.png"
       }
     },
     "DreamJournal": {
@@ -161,6 +203,13 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/growing_embers.png"
       }
     },
+    "HealthySleep": {
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/healthy_sleep.png"
+      }
+    },
     "IdolConcert": {
       "image": {
         "artist": "Scalene Scales",
@@ -173,6 +222,13 @@
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/idol_costume.png"
+      }
+    },
+    "Ingenuity": {
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/ingeuity.png"
       }
     },
     "Karaoke": {
@@ -215,6 +271,20 @@
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/loss_and_gain.png"
+      }
+    },
+    "MagnifyingGlass": {
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/magnifying_glass.png"
+      }
+    },
+    "MotherlySpriit": {
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/motherly_spirit.png"
       }
     },
     "MusicAlbum": {
@@ -294,6 +364,13 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/quadrant_III.png"
       }
     },
+    "RainbowGag": {
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/rainbow_gag.png"
+      }
+    },
     "RearPillow": {
       "image": {
         "artist": "Scalene Scales",
@@ -334,6 +411,13 @@
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/suspicious_abalone.png"
+      }
+    },
+    "TarotDeck": {
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/tarot_deck.png"
       }
     },
     "TheFourthRefrain": {

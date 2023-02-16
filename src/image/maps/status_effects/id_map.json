@@ -7,6 +7,20 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/247news.png"
       }
     },
+    "Accelerated": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/accelerated.png"
+      }
+    },
+    "Aiming": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/aiming.png"
+      }
+    },
     "Ambush": {
       "icon": {
         "artist": "Scalene Scales",
@@ -28,6 +42,13 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/armoured.png"
       }
     },
+    "Arrogance": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/arrogance.png"
+      }
+    },
     "Artifact:BeetlePancakes": {
       "icon": {
         "artist": "Scalene Scales",
@@ -35,11 +56,25 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/beetle_pancakes.png"
       }
     },
+    "Artifact:DaughterOfTheHunt": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/daughter_of_the_hunt.png"
+      }
+    },
     "Artifact:DirtyRag": {
       "icon": {
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/dirty_rag.png"
+      }
+    },
+    "Artifact:DivineGarments": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/artifacts/images/divine_garments.png"
       }
     },
     "Artifact:EmergencyJuice": {
@@ -217,11 +252,30 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/caught_off_guard.png"
       }
     },
+    "Chimera": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/chimera.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/images/chimera.png"
+      }
+    },
     "ColdReading": {
       "icon": {
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/cold_reading.png"
+      }
+    },
+    "Connoisseur": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/connoisseur.png"
       }
     },
     "DanceLessons": {
@@ -245,11 +299,25 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/defence_up.png"
       }
     },
+    "Demonstrating": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/demonstrating.png"
+      }
+    },
     "DivineAura": {
       "icon": {
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/divine_aura.png"
+      }
+    },
+    "DoubleTime": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/double_time.png"
       }
     },
     "Dreaming": {
@@ -308,6 +376,20 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/evade.png"
       }
     },
+    "Expertise": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/expertise.png"
+      }
+    },
+    "Fatigue": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/fatigue.png"
+      }
+    },
     "FlameWaltz": {
       "icon": {
         "artist": "Scalene Scales",
@@ -336,6 +418,13 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/forged_in_flames.png"
       }
     },
+    "Fundraising": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/fundraising.png"
+      }
+    },
     "Grappled": {
       "icon": {
         "artist": "Scalene Scales",
@@ -362,6 +451,13 @@
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/hookie.png"
+      }
+    },
+    "Hubris": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/hubris.png"
       }
     },
     "IdolStep": {
@@ -399,6 +495,20 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/impending_misfortune.png"
       }
     },
+    "Imprison": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/imprison.png"
+      }
+    },
+    "IncognitoMode": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/incognito_mode.png"
+      }
+    },
     "IndiscriminateDesire": {
       "icon": {
         "artist": "Scalene Scales",
@@ -434,6 +544,13 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/joy_of_organizing.png"
       }
     },
+    "Killstreak": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/killstreak.png"
+      }
+    },
     "Leisure": {
       "icon": {
         "artist": "Scalene Scales",
@@ -455,11 +572,25 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/misfortune.png"
       }
     },
+    "Mocked": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/mocked.png"
+      }
+    },
     "MorningNews": {
       "icon": {
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/morning_news.png"
+      }
+    },
+    "Nursing": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/nursing.png"
       }
     },
     "Obsessed": {
@@ -483,6 +614,13 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/overcoming_pain.png"
       }
     },
+    "PhaseShifted": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/phase_shifted.png"
+      }
+    },
     "Poison": {
       "icon": {
         "artist": "Scalene Scales",
@@ -502,6 +640,20 @@
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/pressure.png"
+      }
+    },
+    "PrimalInstincts": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/primal_instincts.png"
+      }
+    },
+    "PrivateCollection": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/private_collection.png"
       }
     },
     "Rage": {
@@ -532,11 +684,32 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/refinement_streak.png"
       }
     },
+    "Regeneration": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/regeneration.png"
+      }
+    },
+    "Repositioned": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/repositioned.png"
+      }
+    },
     "RequestForChanges": {
       "icon": {
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/rfc.png"
+      }
+    },
+    "Reservoir": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/reservoir.png"
       }
     },
     "RightHanded": {
@@ -560,11 +733,32 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/scheduling.png"
       }
     },
+    "Selflessness": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/selflessness.png"
+      }
+    },
     "Serpentine": {
       "icon": {
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/serpentine.png"
+      }
+    },
+    "SharedDegeneracy": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/shared_degeneracy.png"
+      }
+    },
+    "SmallSips": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/small_sips.png"
       }
     },
     "SpeedDown": {
@@ -581,6 +775,13 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/speed_up.png"
       }
     },
+    "Stasis": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/stasis.png"
+      }
+    },
     "SteadyProgress": {
       "icon": {
         "artist": "Scalene Scales",
@@ -593,6 +794,20 @@
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/stockpiling.png"
+      }
+    },
+    "StoredWater": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/stored_water.png"
+      }
+    },
+    "Strafing": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/strafing.png"
       }
     },
     "StrengthDown": {
@@ -623,6 +838,13 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/taunt.png"
       }
     },
+    "Teaching": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/teaching.png"
+      }
+    },
     "TemporarySpeedDown": {
       "icon": {
         "artist": "Scalene Scales",
@@ -644,6 +866,13 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/thorns.png"
       }
     },
+    "Tracked": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/tracked.png"
+      }
+    },
     "Trauma": {
       "icon": {
         "artist": "Scalene Scales",
@@ -651,11 +880,30 @@
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/trauma.png"
       }
     },
+    "UnconditionalLove": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/unconditional_love.png"
+      }
+    },
+    "Vanity": {
+      "icon": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/vanity.png"
+      }
+    },
     "WrathForm": {
       "icon": {
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
         "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/icons/wrath_form.png"
+      },
+      "image": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/status_effects/images/wrath_form.png"
       }
     }
   }
