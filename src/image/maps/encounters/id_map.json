@@ -4,14 +4,14 @@
       "icon": {
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
-        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/ui/encounters/red_trident.png"
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/encounters/icons/red_trident.png"
       }
     },
     "SelfDoubt": {
       "icon": {
         "artist": "Scalene Scales",
         "license": "CC-BY-2.0",
-        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/ui/encounters/fog_of_self_doubt.png"
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/encounters/icons/fog_of_self_doubt.png"
       }
     }
   }
