@@ -1,0 +1,39 @@
+{
+  "map": {
+    "SelectZone": {
+      "combat": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/zones/battle/background_battle_tower_of_babel.png"
+      }
+    },
+    "TrainingZone": {
+      "combat": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/zones/battle/background_battle_tower_of_babel.png"
+      }
+    },
+    "Fire1Zone": {
+      "combat": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/zones/battle/background_battle_fire1.png"
+      }
+    },
+    "Water2Zone": {
+      "combat": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/zones/battle/background_battle_water2.png"
+      }
+    },
+    "VoidZone": {
+      "combat": {
+        "artist": "Scalene Scales",
+        "license": "CC-BY-2.0",
+        "url": "https://cdn.jsdelivr.net/gh/scalene-scales/dews-id-map@main/src/image/maps/zones/battle/background_battle_void.png"
+      }
+    }
+  }
+}
